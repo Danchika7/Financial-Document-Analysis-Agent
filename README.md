@@ -19,7 +19,7 @@ An AI-powered financial document analysis system that extracts, retrieves, and a
 - FAISS
 - Qwen2.5
 - LangGraph
-- Jupyter Notebook
+- Google Colab
 
 ## Project Structure
 - `Financial_Ai_Agent.ipynb` – Main project notebook
